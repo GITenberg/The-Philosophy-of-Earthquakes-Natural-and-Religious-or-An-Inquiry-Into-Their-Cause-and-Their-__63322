@@ -1,0 +1,27 @@
+_repo: The-Philosophy-of-Earthquakes-Natural-and-Religious-or-An-Inquiry-Into-Their-Cause-and-Their-__63322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stukeley, William
+    birthdate: 1687
+    deathdate: 1765
+    gutenberg_agent_id: '51491'
+    url: http://www.gutenberg.org/2009/agents/51491
+    wikipedia: https://en.wikipedia.org/wiki/William_Stukeley
+description: ''
+gutenberg_issued: '2020-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63322'
+  lccn: '12008527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Earthquakes'
+- GITenberg
+title: "The Philosophy of Earthquakes, Natural and Religious\r\nor, An Inquiry Into\
+  \ Their Cause, and Their Purpose"
+url: http://www.gutenberg.org/ebooks/63322
